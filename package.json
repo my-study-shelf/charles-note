@@ -1,0 +1,23 @@
+{
+  "name": "charles-note",
+  "version": "1.0.0",
+  "description": "## mac os 配置HTTPS证书 1. Help >> SSL proxying >>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/my-study-shelf/charles-note.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/my-study-shelf/charles-note/issues"
+  },
+  "homepage": "https://github.com/my-study-shelf/charles-note#readme",
+  "dependencies": {
+    "i5ting_toc": "^1.1.5"
+  }
+}
